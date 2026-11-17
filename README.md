@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Sonika Sharma 👋
 
-<!--
-**sonika5716/sonika5716** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**QA Automation Engineer | Software Quality Engineering**
 
-Here are some ideas to get you started:
+I'm a QA Automation Engineer passionate about building reliable, maintainable, and efficient test automation solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me
+- 🔍 Focused on software testing and test automation.
+- 💻 Experienced with Selenium, Java, Katalon Studio, and API testing.
+- 🧪 Interested in improving software quality through effective automation.
+- 🌐 Based in Kathmandu, Nepal.
+
+### Connect With Me
+- 🌐 **Portfolio:** https://sonikasharma.com.np/
+- 💼 **LinkedIn:** https://www.linkedin.com/in/sonika-sharma5716/
+- 🐙 **GitHub:** https://github.com/sonika5716
